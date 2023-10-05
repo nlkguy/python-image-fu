@@ -5,6 +5,6 @@
 ### Average Color
 ### Image Grid
 
-![Meh](/python-image-fu/images/45848-cusat-students.jpg "45848! Students")
+![Meh](https://raw.githubusercontent.com/nlkguy/python-image-fu/main/images/45848-cusat-students.jpg "45848! Students")
 
 ### 
